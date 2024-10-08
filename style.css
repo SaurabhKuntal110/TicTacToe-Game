@@ -6,6 +6,10 @@ body{
     background-color: #86bbd8;
     text-align: center;
 }
+h1{
+    font-size: 10vmin;
+    color: #2F4858;
+}
 .container{
     height: 70vh;
     display: flex;
