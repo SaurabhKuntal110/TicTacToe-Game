@@ -7,7 +7,7 @@ body{
     text-align: center;
 }
 h1{
-    font-size: 10vmin;
+    font-size: 8vmin;
     color: #2F4858;
 }
 .container{
@@ -41,4 +41,24 @@ h1{
     border: none;
     background-color: #33658a;
     color: white;
+}
+#msg{
+    font-size: 8vmin;
+    text-decoration:underline;
+    color: #2F4858;
+}
+#new-btn{
+    padding: 1rem;
+    font-size: 1.5rem;
+    border-radius: 1rem;
+    border: none;
+    background-color: #33658a;
+    color: white;
+}
+.msg-container{
+    height: 15vmin;
+    padding-top: 1vmin;
+}
+.hide{
+    display:none ;
 }
