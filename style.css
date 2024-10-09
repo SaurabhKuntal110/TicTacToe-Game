@@ -49,7 +49,6 @@ h1{
     color: #2F4858;
 }
 #new-btn{
-    margin-top: 1rem;
     padding: 1rem;
     font-size: 1.5rem;
     border-radius: 1rem;
@@ -58,8 +57,12 @@ h1{
     color: white;
 }
 .msg-container{
-    height: 20vmin;
-    padding-top: 1vmin;
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
 }
 .hide{
     display:none ;
