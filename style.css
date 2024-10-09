@@ -9,6 +9,7 @@ body{
 h1{
     font-size: 8vmin;
     color: #2F4858;
+    margin-top: 1rem;
 }
 .container{
     height: 70vh;
@@ -48,6 +49,7 @@ h1{
     color: #2F4858;
 }
 #new-btn{
+    margin-top: 1rem;
     padding: 1rem;
     font-size: 1.5rem;
     border-radius: 1rem;
@@ -56,7 +58,7 @@ h1{
     color: white;
 }
 .msg-container{
-    height: 15vmin;
+    height: 20vmin;
     padding-top: 1vmin;
 }
 .hide{
